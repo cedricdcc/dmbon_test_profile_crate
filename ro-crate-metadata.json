@@ -9,12 +9,7 @@
             },
             "conformsTo": {
                 "@id": "https://www.researchobject.org/ro-crate/1.2-DRAFT/profiles"
-            },
-            "referencedIn":[
-                {
-                    "@id": "git@github.com:cedricdcc/dmbon_test_seed_crate.git"
-                }
-            ]
+            }
         },
         {
             "@id": "./",
@@ -22,7 +17,7 @@
             "datePublished": "2022-02-08T18:04:04.531904",
             "hasPart": [
                 {
-                    "@id": "git@github.com:cedricdcc/dmbon_test_seed_crate.git"
+                    "@id": "https://github.com/cedricdcc/dmbon_test_seed_crate.git"
                 },
                 {
                     "@id": "url to other profile crates (git ssh repo url)"
@@ -40,7 +35,7 @@
             "@type": "File"
         },
         {
-            "@id": "git@github.com:cedricdcc/dmbon_test_seed_crate.git",
+            "@id": "https://github.com/cedricdcc/dmbon_test_seed_crate.git",
             "@type": "Dataset"
         },
         {
